@@ -1,0 +1,141 @@
+    1  uname -a 
+    2  tree
+    3  sudo apt install tree
+    4  tree
+    5  pwd
+    6  ls -l
+    7  mkdir directorio1
+    8  tree
+    9  tree -L 1 /etc | less
+   10  clear
+   11  tree -L 1 /etc
+   12  tree -L 1 /etc | less
+   13  clear
+   14  screenfetch
+   15  sudo apt install screenfetch
+   16  clear
+   17  screenfetch
+   18  nano file
+   19  clear
+   20  tree
+   21  mkdir universidad
+   22  cd universidad/
+   23  git init
+   24  history > log.txt
+   25  more log.txt 
+   26  git status
+   27  git add .
+   28  git commit -m "primer commit" 
+   29  git commit -m "primer commit"
+   30  git config --global user.name "cesar"
+   31  git commit -m "primer commit"
+   32  git config --global user.email "cesar@hotmail.com"
+   33  git commit -m "primer commit"
+   34  git status
+   35  git log
+   36  nano log.txt 
+   37  clear
+   38  poweroff
+   39  clear
+   40  ifconfig}
+   41  ifconfig
+   42  apt-get install ifconfig
+   43  clear
+   44  ifconfig
+   45  sudo apt-get install ifconfig
+   46  sudo apt install ifconfig
+   47  clear
+   48  sudo apt-get update
+   49  clear
+   50  sudo apt install ifconfig
+   51  clear
+   52  sudo apt install ifconfig
+   53  ifconfig
+   54  clear
+   55  ifconfig
+   56  apt-get install net-tools
+   57  clear
+   58  ifconfig
+   59  sudo apt-get install net-tools
+   60  clear
+   61  sensors
+   62  sudo apt install lm-sensors
+   63  clear
+   64  pwd
+   65  clear
+   66  ls
+   67  ls -l
+   68  clear
+   69  mkdir directorioNuevo
+   70  ls -l
+   71  clear
+   72  cd directorioNuevo/
+   73  pwd
+   74  cd ..
+   75  cd /home
+   76  pwd
+   77  cd darkmoon65/directorioNuevo/
+   78  clear
+   79  touch archivo1
+   80  ls -l
+   81  cat archivo1
+   82  more archivo1
+   83  nano archivo1
+   84  vi archivo1
+   85  clear
+   86  rm archivo1 
+   87  clear
+   88  touch archivo2
+   89  ls -l
+   90  chmod +x archivo2
+   91  ls -l
+   92  clear
+   93  service --status-all
+   94  clear
+   95  ifconfig
+   96  clear
+   97  g++
+   98  gcc
+   99  clear
+  100  g++
+  101  sudo apt install g++
+  102  ls
+  103  nano archivo2
+  104  g++ archivo2
+  105  cp archivo2 codigo.cpp
+  106  g++ codigo.cpp
+  107  nano codigo.cpp
+  108  g++ codigo.cpp
+  109  more codigo.cpp
+  110  g++ codigo.cpp
+  111  ./codigo
+  112  ls
+  113  ./a.out 
+  114  nano codigo.cpp
+  115  more codigo.cpp 
+  116  g++ codigo.cpp
+  117  ./a.out 
+  118  clear
+  119  sudo apt install gcc
+  120  nano codigoc.c
+  121  gcc codigoc.c 
+  122  ls
+  123  ./a
+  124  ./a.out 
+  125  ls
+  126  more codigoc.c 
+  127  nano codigoc.c 
+  128  more codigoc.c 
+  129  gcc codigoc.c 
+  130  ./a.out 
+  131  clear
+  132  cd /home/darkmoon65/
+  133  clear
+  134  vim
+  135  clear
+  136  vim archivoEnVim
+  137  more archivoEnVim 
+  138  clear
+  139  mkdir volcado
+  140  cd volcado/
+  141  history > archivoLog.txt
